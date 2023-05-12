@@ -16,8 +16,9 @@ Aqui estáá  as linguagens que uso e amo:
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
 ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
+
 
