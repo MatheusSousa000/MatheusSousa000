@@ -1,6 +1,6 @@
 Meu Perfil
 
-# Hello , Seja Bem-Vindo!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+# Hello , Seja Bem-Vindo ao meu Perfil ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 Eu Sou um Desenvolvedor Front-End e amo resolver problemas e criar sites, porém meu foco é ser FullStack, mas primeiro dominarei o Front-End e depois me tornarei um FullStack. Desde pequeno gosto muito da tecnologia, mas depois que conheci a programação, me apaixonei por completo.
 
