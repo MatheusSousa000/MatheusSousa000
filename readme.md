@@ -2,7 +2,7 @@ Meu Perfil do  GitHub
 
 # Olá, Seja Bem-Vindo ao meu Perfil ✌
 
-Eu Sou um Desenvolvedor Front-End e amo resolver problemas e criar sites, porém meu foco é ser um desenvolvedor Full Stack, mas primeiro dominarei o Front-End e depois me tornarei um Full Stack. Desde pequeno gosto muito da tecnologia, mas depois que conheci a programação, peguei a paixão por completo.
+Eu sou um Desenvolvedor Front-End e amo resolver problemas e criar sites, porém meu foco é ser um desenvolvedor Full Stack, mas primeiro dominarei o Front-End e depois me tornarei um Full Stack. Desde pequeno gosto muito da tecnologia, mas depois que conheci a programação, peguei a paixão por completo.
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
