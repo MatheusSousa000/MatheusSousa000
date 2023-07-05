@@ -5,7 +5,7 @@ Meu Perfil do  GitHub
 Eu sou um Desenvolvedor Front-End e amo resolver problemas e criar sites, porém meu foco é ser um desenvolvedor Full Stack, mas primeiro dominarei o Front-End e depois me tornarei um Full Stack. Desde pequeno gosto muito da tecnologia, mas depois que conheci a programação, peguei a paixão por completo.
 
 <a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="left" alt="Hello, there!">
 </a>
 
 Aqui está as linguagens que uso e amo:
@@ -21,4 +21,4 @@ Aqui está as linguagens que uso e amo:
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonightmargin-top="100")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
