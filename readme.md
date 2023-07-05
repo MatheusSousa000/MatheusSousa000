@@ -8,6 +8,7 @@ Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolv
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" margin-bottom="100px" alt="Hello, there!">
 </a>
 
+Aqui está as linguagens que uso e amo:
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
@@ -21,4 +22,3 @@ Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolv
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-Aqui está as linguagens que uso e amo:
