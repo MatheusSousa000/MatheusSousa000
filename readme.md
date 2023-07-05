@@ -8,6 +8,9 @@ Sou um apaixonado Desenvolvedor Front-End com uma inabalável paixão por resolv
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" margin-bottom="100px" alt="Hello, there!">
 </a>
 
+
+
+
 Aqui está as linguagens que uso e amo:
 
 
@@ -20,6 +23,8 @@ Aqui está as linguagens que uso e amo:
 ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
+
+
 
 
 
