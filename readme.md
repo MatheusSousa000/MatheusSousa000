@@ -22,3 +22,4 @@ Aqui está as linguagens que uso e amo:
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
